@@ -67,7 +67,6 @@ Exits the application.
 
 # Requierments
 
-Libraries:
 
 org.jsoup 
 
