@@ -37,6 +37,8 @@ Type a valid number for your desired action:
 [4] Exit
 
 
+# Options
+
 Show Updates:
 
 Displays a list of saved URLs.
