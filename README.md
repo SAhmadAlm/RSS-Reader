@@ -1,6 +1,6 @@
 # RSS-Reader
 
-RSSReader is a Java-based application designed to read and display RSS feed updates from various websites. Users can add, remove, and display RSS feed URLs, 
+RSSReader is a Java application designed to read and display RSS feed updates from various websites. Users can add, remove, and display RSS feed URLs, 
 
 allowing them to keep track of the latest updates from their favorite sources.
 
